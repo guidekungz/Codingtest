@@ -1,7 +1,7 @@
 # Codingtest
 Question 2 Tennis
 
-- compile java file 
+- compile javac file 
   "java Tennis.java"
   
 - run java class 
